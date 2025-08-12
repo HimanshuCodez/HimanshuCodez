@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E94057,50:F27121,100:FF6B35&height=150&section=header&text=HimanshuCodez&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E94057,50:F27121,100:FF6B35&height=150&section=header&text=HimanshuGaur&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -20,11 +20,9 @@
 
 ```javascript
 const himanshu = {
-    name: "Himanshu Singh",
+    name: "Himanshu Gaur",
     title: "Full Stack Developer",
-    company: "Building Dreams with Code",
-    location: "India 🇮🇳",
-    
+
     workingOn: "MERN Stack Applications",
     learning: ["Advanced React Patterns", "Backend Optimizations"],
     askMeAbout: ["React", "Node.js", "JavaScript", "MongoDB"],
@@ -38,12 +36,7 @@ const himanshu = {
     currentGoal: "Building scalable & user-friendly applications",
     funFact: "I turn coffee into code! ☕→💻"
 };
-```
-
-🚀 **Passionate Full-Stack Developer** specializing in **MERN Stack**  
-📚 **Always learning** and building innovative projects  
-💡 **Love solving complex problems** with clean, efficient code  
-🌱 **Currently exploring** advanced React patterns & backend optimization  
+```  
 📬 **Let's connect:** himanshucodez@gmail.com
 
 <br clear="both"/>
