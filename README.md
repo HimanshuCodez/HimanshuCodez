@@ -3,7 +3,7 @@
 📚 Always learning and building new projects  
 💡 Love solving problems and creating clean, efficient code  
 🌱 Currently exploring advanced React & backend optimizations  
-📬 Reach me at: **himanshuzcodez@gmail.com**
+📬 Reach me at: **himanshucodez@gmail.com**
 
 ---
 
@@ -28,20 +28,20 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HimanshuzCodez&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuzCodez&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuzCodez&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=HimanshuCodez&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuCodez&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuCodez&theme=radical&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HimanshuzCodez&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HimanshuCodez&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 📅 Contributions:
-![HimanshuzCodez's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimanshuzCodez&theme=react-dark&hide_border=true)
+![HimanshuzCodez's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimanshuCodez&theme=react-dark&hide_border=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=HimanshuzCodez&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HimanshuCodez&icon=0&color=0)](https://visitcount.itsvg.in)
