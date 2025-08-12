@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HimanshuCodez&label=Profile%20Views&color=12&icon=5&pretty=true" />
+
   <img src="https://img.shields.io/github/followers/HimanshuCodez?label=Followers&style=for-the-badge&color=orange&labelColor=ce4630" />
   <img src="https://img.shields.io/github/stars/HimanshuCodez?label=Stars&style=for-the-badge&color=yellow&labelColor=ffd700" />
 </div>
