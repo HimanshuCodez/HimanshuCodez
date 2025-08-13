@@ -59,25 +59,25 @@ const himanshu = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
 </div>
-
----
 ---
 
-
-## 🔥 Streak & Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HimanshuCodez&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&border_radius=10" alt="HimanshuCodez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuCodez&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&border_radius=10" />
 </div>
 
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/HimanshuCodez?label=Follow&style=social)](https://github.com/HimanshuCodez)
-[![GitHub stars](https://img.shields.io/github/stars/HimanshuCodez?label=Stars&style=social)](https://github.com/HimanshuCodez)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuCodez&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ffdd44&currStreakLabel=ffdd44&border_radius=10" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuCodez&custom_title=HimanshuCodez's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=ff6b6b&line=ffdd44&point=c9d1d9&area=true&hide_border=true" />
 </div>
 
 ---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -107,22 +107,6 @@ const himanshu = {
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HimanshuCodez&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&border_radius=10" alt="HimanshuCodez github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuCodez&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuCodez&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ffdd44&currStreakLabel=ffdd44&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuCodez&custom_title=HimanshuCodez's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=ff6b6b&line=ffdd44&point=c9d1d9&area=true&hide_border=true" />
-</div>
 
 ---
 
