@@ -61,7 +61,23 @@ const himanshu = {
 </div>
 
 ---
+---
 
+
+## 🔥 Streak & Stats
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</div>
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/HimanshuCodez?label=Follow&style=social)](https://github.com/HimanshuCodez)
+[![GitHub stars](https://img.shields.io/github/stars/HimanshuCodez?label=Stars&style=social)](https://github.com/HimanshuCodez)
+
+</div>
+
+---
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -116,34 +132,6 @@ const himanshu = {
   <img src="https://github-profile-trophy.vercel.app/?username=HimanshuCodez&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HimanshuCodez/HimanshuCodez/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HimanshuCodez/HimanshuCodez/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HimanshuCodez/HimanshuCodez/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🔥 Streak & Stats
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-</div>
-
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/HimanshuCodez?label=Follow&style=social)](https://github.com/HimanshuCodez)
-[![GitHub stars](https://img.shields.io/github/stars/HimanshuCodez?label=Stars&style=social)](https://github.com/HimanshuCodez)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E94057,50:F27121,100:FF6B35&height=120&section=footer&animation=twinkling" />
