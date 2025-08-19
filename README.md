@@ -108,15 +108,6 @@ const himanshu = {
 </div>
 
 
----
-
-## 🏆 Achievement Unlocked
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HimanshuCodez&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E94057,50:F27121,100:FF6B35&height=120&section=footer&animation=twinkling" />
 </div>
